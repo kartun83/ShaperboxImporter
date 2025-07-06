@@ -1,0 +1,67 @@
+{
+  "window_title": "ShaperBox 3",
+  "file_dialog_title": "Load FXP",
+  "file_directory": "/home/kartun/Documents/shaperbox_tmp/1",
+  "file_extension": ".fxp",
+  "steps": [
+    {
+      "type": "move_click",
+      "x": 3204,
+      "y": 149,
+      "button": "left",
+      "relative": false,
+      "delay_after": 1.0,
+      "description": "Click at (3204, 149)"
+    },
+    {
+      "type": "move_click",
+      "x": 3230,
+      "y": 253,
+      "button": "left",
+      "relative": false,
+      "delay_after": 1.0,
+      "description": "Click at (3230, 253)"
+    },
+    {
+      "type": "file_selection",
+      "filename": "1",
+      "description": "File selected: 1"
+    },
+    {
+      "type": "move_click",
+      "x": 3198,
+      "y": 162,
+      "button": "left",
+      "relative": false,
+      "delay_after": 1.0,
+      "description": "Click at (3198, 162)"
+    },
+    {
+      "type": "move_click",
+      "x": 3215,
+      "y": 227,
+      "button": "left",
+      "relative": false,
+      "delay_after": 1.0,
+      "description": "Click at (3215, 227)"
+    },
+    {
+      "type": "move_click",
+      "x": 3450,
+      "y": 540,
+      "button": "left",
+      "relative": false,
+      "delay_after": 1.0,
+      "description": "Click at (3450, 540)"
+    },
+    {
+      "type": "move_click",
+      "x": 3413,
+      "y": 490,
+      "button": "left",
+      "relative": false,
+      "delay_after": 1.0,
+      "description": "Click at (3413, 490)"
+    }
+  ]
+}

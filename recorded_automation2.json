@@ -1,0 +1,58 @@
+{
+  "steps": [
+    {
+      "type": "move_click",
+      "x": 3210,
+      "y": 167,
+      "button": "left",
+      "relative": false,
+      "delay_after": 1.0,
+      "description": "Click at (3210, 167)"
+    },
+    {
+      "type": "move_click",
+      "x": 3245,
+      "y": 250,
+      "button": "left",
+      "relative": false,
+      "delay_after": 1.0,
+      "description": "Click at (3245, 250)"
+    },
+    {
+      "type": "move_click",
+      "x": 3192,
+      "y": 160,
+      "button": "left",
+      "relative": false,
+      "delay_after": 1.0,
+      "description": "Click at (3192, 160)"
+    },
+    {
+      "type": "move_click",
+      "x": 3227,
+      "y": 236,
+      "button": "left",
+      "relative": false,
+      "delay_after": 1.0,
+      "description": "Click at (3227, 236)"
+    },
+    {
+      "type": "move_click",
+      "x": 3440,
+      "y": 542,
+      "button": "left",
+      "relative": false,
+      "delay_after": 1.0,
+      "description": "Click at (3440, 542)"
+    },
+    {
+      "type": "move_click",
+      "x": 3391,
+      "y": 491,
+      "button": "left",
+      "relative": false,
+      "delay_after": 1.0,
+      "description": "Click at (3391, 491)"
+    }
+  ]
+}

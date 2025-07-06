@@ -1,0 +1,24 @@
+{
+  "window_title": "ShaperBox 3",
+  "steps": [
+    {
+      "type": "move_click",
+      "x": 50,
+      "y": 30,
+      "relative": true,
+      "button": "left",
+      "clicks": 1,
+      "delay_after": 0.5,
+      "description": "Click main menu"
+    },
+    {
+      "type": "move_click",
+      "x": 120,
+      "y": 80,
+      "relative": true,
+      "button": "left",
+      "delay_after": 1.0,
+      "description": "Select export option"
+    }
+  ]
+}
